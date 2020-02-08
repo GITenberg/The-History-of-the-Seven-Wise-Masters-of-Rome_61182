@@ -1,0 +1,38 @@
+_repo: The-History-of-the-Seven-Wise-Masters-of-Rome_61182
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+  - agent_name: Gomme, George Laurence
+    aliases:
+    - Gomme, Laurence
+    - Gomme, G. Laurence (George Laurence)
+    - Gomme, G. L.
+    birthdate: 1853
+    deathdate: 1916
+    gutenberg_agent_id: '24927'
+    url: http://www.gutenberg.org/2009/agents/24927
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Gomme
+description: ''
+gutenberg_issued: '2020-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61182'
+  lccn: '24006622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chap-books and folk-lore tracts ... First series. Vol. 2 (of 5)
+subjects:
+- !lcsh 'Romances, Latin (Medieval and modern) -- Translations into English'
+- !lcc 'PR'
+- GITenberg
+title: The History of the Seven Wise Masters of Rome
+url: http://www.gutenberg.org/ebooks/61182
